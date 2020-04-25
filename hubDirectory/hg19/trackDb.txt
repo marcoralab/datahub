@@ -1,5 +1,5 @@
 track test
-bigDataUrl: https://media.githubusercontent.com/media/marcoralab/datahub/master/summary_stats/Marioni2018_phase4.chrall.CPRA_b37.sort.prep.comb.final.bedGraph 
+bigDataUrl: https://raw.githubusercontent.com/marcoralab/datahub/master/summary_stats/track14652.txt 
 type bedGraph
 shortLabel test
 longLabel lest
